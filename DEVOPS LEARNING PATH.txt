@@ -1,0 +1,396 @@
+DevOPs Introduction
+
+Introduction to SDLC
+Waterfall Model
+Advantages of Waterfall Model
+Dis-Advantages of Waterfall Model
+Agile Methodology
+Scrum
+DevOps History
+DevOps Lifecycle
+Before DevOps and After DevOps
+Advantages
+Road Map
+Add on Advantages
+
+Introduction to Cloud Computing and AWS
+
+What is the cloud computing and it's Advantages?
+Service models in Cloud
+What is the AWS?
+AWS Global infrastructure
+AWS Account Creation
+Deployment models in AWS
+How to work within free tier limits in AWS?
+Cloud Market
+Top 10 Cloud Provider's
+Diff blw AWS, AZURE & GCP
+Main Roles
+Certifications
+
+Linux
+
+Linux Introduction
+Flavours of Linux
+Linux History
+Linux Advantages
+System Information
+Hardware Information
+File Commands
+VIM Editor
+Users
+Groups
+File Permissions
+Networking
+Compression/Archieve
+Disk usage
+Package Installation
+Scripting
+FHS/Directory System
+Linux Filters
+Linux Man pages
+SED Filters
+GREP Filters
+Project
+AWS Services
+
+1. Identity and access management
+2. Simple storage service(S3)
+3. Commandline interface (CLI)
+4. Virtual private cloud (VPC)
+5. Elactic Compute cloud (EC2)
+6. Route 53
+7. CloudWatch
+8. Relational Database Service (RDS)
+9. CI/CD
+10. Elastic Bean Stalk
+
+GIT
+
+VCS History
+Revision Control System
+Subversion
+GIT Stages
+Working Directory
+Staging Area
+Repository (Local, Central, Remote)
+GIT Installation
+GIT Add
+GIT Commit
+GIT Status
+Commit a file using GIT
+Configuration of USER
+Ignoring Content
+GIT HUB
+GIT REPO's (Private & Public)
+GIT PUSH
+GIT PULL
+GIT Cloning
+GIT Branch
+GIT Merge
+GIT FORK
+GIT STASH
+GIR Revert
+GIT HUB File Add
+Advantages & Disadvantages
+Interview Questions
+Compare & Pull Request
+Git Cherrypick
+Git Tags
+Git Merge Conflicts
+Git Rebase
+Danger Zone Options
+Making Public Repo As Private
+Ownership Transfer
+Archving Repos
+Deleting Repos
+Accessing The Private Repos
+Wiki Pages
+Project
+
+MAVEN
+
+Introduction
+JAVA Project Structure
+Problems without MAVEN
+What MAVEN does?
+What is built tool?
+POM.XML File
+Requirements for build
+MAVEN Architecture
+MAVEN Build Lifecycle
+MAVEN Compile
+Problems without MAVEN
+MAVEN Test
+MAVEN package
+MAVEN Deploy
+MAVEN clear
+MAVEN directory structure
+Generating WAR file
+Generating JAR file
+MAVEN vs ANT
+Interview Questions
+
+Jenkins
+
+Introduction
+Workflow
+Advantages
+Jenkins alternatives
+Master-Slave Concept
+Jenkins Setup
+JAVA Installation
+GIT Integration
+MAVEN Integration
+Jobs in Jenkins
+Maven Job Task
+Parameter Building
+Choice Parameter
+File Parameter
+Branch Building
+Schedule Project
+CRON syntaxes
+Webhooks
+POLL SCM
+Linked Projects
+Up stream
+Down stream
+Pipelines workflow
+Declarative Pipeline
+Disabling the project
+Console Output Views
+Shell Executing
+Plugin Management
+Permalinks
+Pipelines
+Jenkins File
+Jenkins Pipeline Components
+Pipeline View
+Scripted Pipeline
+Declarative pipeline
+Hello world pipeline
+Integration pipeline
+Editing Build Info
+Lables
+User Management
+Interview questions
+Local Variable
+Global Variable
+Timeout
+Time Stamps
+Custom Workspace
+Workspace Access
+Pipeline Logs
+Plugin Management
+Jenkins File
+Pipeline As A Code
+Paac Variables
+Paac Parameters
+Paac Input Parameter
+Paac Postbuild
+Blue Ocean
+Build Pipeline View
+Working with Ansible
+Working with Docker
+Terraform integration
+
+Docker
+
+Introduction
+Docker Architecture
+Docker Components
+Docker Commands
+Build image from container
+Creating Custom Images
+Docket File
+Docker file components
+Docker file creation
+Docker volumes
+Users of volumes
+Creating volumes
+Creating volumes by using commands
+Volumes (Container-Container)
+Volumes (Host-Container)
+Creating a volume from file
+Docker port mapping
+Connecting Jenkins dashboard
+Docker HUB
+Docker Push
+Up stream
+Down stream
+Docker Pull
+Docker Login
+Some advance commands
+Docker Swarm Introduction
+Docker Swarm architecture
+Docker Swarm components
+Docker Swarm manager nodes
+Creating a service
+Docker Swarm VS K8s
+Advance Commands
+Interview Questions
+Docker Compose
+Docker Compose Advantages
+Docker Compose Installation
+Docker Compose File
+Docker Compose File In Json
+Docker Compose File In Yaml
+Docker Compose Single Service
+Docker Compose Multi Services
+Docker Stack
+Docker Deployment
+Integration with Jenkins
+
+NAGIOS
+
+History
+Why NAGIOS?
+Features
+Phases of Monitoring
+NAGIOS Architecture
+How it works?
+Pre Requisites
+Dashboard Overview
+Installation of NAGIOS
+Interview questions
+
+ANSIBLE
+
+History
+Advantages & Disadvantages
+ANSIBLE workflow
+Chef workflow
+ANSIBLE Inventory Host Pattern
+Host Pattern
+Ad-Hoc Commands
+ANSIBLE Modules
+Playbooks
+YAML
+Variables
+Handlers
+Loops
+Conditions
+Vault
+Roles
+Galaxy
+ANSIBLE Tags
+ANSIBLE with different tools
+Interview questions
+Ansible Multi-Tags
+Ansible Dry Run
+Ansible Raw Module
+Ansible Shell
+Ansible File Operations
+Ansible Pip
+Ansible Galaxy
+Ansible Userinfo
+Ansible Tower
+Integration with Jenkins
+
+KUBERNETES (K8s)
+
+History
+Online Platform for K8s
+Cloud Based K8s
+Installation Tools
+Container Scaleup Problems
+Features
+Dockets Swarm vs K8s
+Architecture
+Master Components
+Node Components
+Working with K8s
+Role of Master
+Components of Control Plane
+Node Components
+POD
+MINKUBE Installation
+KUBECTL Installation
+Deploying an APP
+Interview Questions
+Kube-Api Server
+Etdc
+Features
+Kube-Scheduler
+Control Manager
+Kubelet
+Container Engine
+Kube-Proxy
+Multi Container Pod
+Limitations
+Important Notations
+Working
+Kops Introduction
+Cluster Setup By Kops
+Pod Setup
+Multipod Creation
+Manifest Files
+Name Spaces
+Scale up Problems
+Features
+Docker Swarm Vs K8S
+
+TERRAFORM
+
+Introduction
+History
+Uses
+Advantages & Disadvantages
+TERRAFORM Setup and Installation
+TERRAFORM INIT
+TERRAFORM Plan
+TERRAFORM Apply
+TERRAFORM Destroy
+Creating a Terra file (MAIN.TF)
+Creating VPC
+Creating EC2
+Creating S3 Bucket
+Creating Security Groups
+Creating Subnets
+Role Based Authentication
+S3 backend setup
+TERRAFORM variables
+String
+Number
+Boolean
+List
+TERRAFORM loops
+TERRAFORM workspaces
+TERRAFORM locals
+TERRAFORM outputs
+TERRAFORM multiple TFVAR files
+Creating Efs
+Terraform Modules
+Terraform Alias
+Terraform validate
+Working with Files and folders
+Meta arguments
+Counting index
+
+OTHER TOPICS
+
+SONARQUBE
+JFROG
+Server Types
+Webserver Types
+AWS Theory
+Agile Theory
+Scrum Theory
+
+REALTIME TOOLS
+
+PUTTY
+PUTTYGEN
+Super PUTTY
+
+SOFTWARE ARCHITECTURES
+
+Architecture Types
+Presentation Layers
+Application Layer
+Data Layer
+One teir Architecture
+Two teir Architecture
+Three teir Architecture
+N teir Architecture
+
